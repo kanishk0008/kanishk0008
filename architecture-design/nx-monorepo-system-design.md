@@ -14,7 +14,7 @@ graph TD
         A[Bank Alpha App] 
         B[Bank Beta App]
         C[Internal Admin Tool]
-    }
+    end
 
     subgraph "Shared Workspace (Nx Libraries)"
         subgraph "Feature Libs"

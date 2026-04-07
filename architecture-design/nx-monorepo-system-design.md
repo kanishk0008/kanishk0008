@@ -1,7 +1,3 @@
-This is a high-impact architectural document designed to showcase your ability to handle **enterprise-grade complexity**. In a white-label banking context, the "hard problems" are security, multi-tenant branding (theming), and code reuse.
-
----
-
 # Architecture Design: Multi-Tenant White-Label Banking Platform
 **Stack:** Nx Monorepo, Expo (Bare Workflow), React Native, TypeScript, Redux-Persist
 
@@ -101,7 +97,4 @@ To manage multiple apps efficiently, the CI/CD utilizes **Nx Affected** commands
 * **Secure Storage:** Using `expo-secure-store` for keychain/keystore management of JWTs.
 * **Obfuscation:** ProGuard (Android) and DexGuard configurations integrated into the build pipeline to prevent reverse engineering.
 
----
 
-### Suggested GitHub README Header:
-> "This repository demonstrates an enterprise-grade mobile architecture for white-labeling. It solves the challenges of code sharing across multiple production apps while maintaining native-level performance and strict financial security standards."

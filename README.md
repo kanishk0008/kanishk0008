@@ -26,21 +26,17 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-# 🚀 Status: Pending Review 🟡
 
-> **Current Build:** `v2.0.0-beta`
->
-> **Developer Note:** The profile is currently being staged for a major update. Please excuse the "Coming Soon" placeholders while I optimize the user experience.
+## 🏗️ Architectural Core: Enterprise White-Labeling
+This project leverages an **Nx Monorepo** with **Expo Bare Workflow** to support multiple banking tenants from a single codebase.
 
----
+* **Scalability:** 50% reduction in code duplication using a shared library-first approach.
+* **Performance:** Custom **Swift/Kotlin Native Bridges** bypassing the JS thread for 60 FPS biometric using TurboModules.
+* **Reliability:** Offline-first synchronization engine with **Redux-Persist** for mission-critical financial data integrity.
 
-### 📦 Version 2.0.0 Release Notes
-* **Performance:** Refactoring the "About Me" logic for faster reading.
-* **New Features:** Integrating latest project showcases and tech stacks.
-* **Bug Fixes:** Resolved an issue where my bio was becoming deprecated.
-* **UI/UX:** Polishing the layout to ensure a smooth scrolling experience.
+> [Read the Full System Design Document](./architecture-design/nx-monorepo-system-design.md)
 
-**Expected Rollout:** *T-minus a few coffee cups.* ☕️
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/kanishk0008" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/kanishk-gupta-08" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
